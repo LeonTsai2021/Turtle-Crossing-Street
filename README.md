@@ -27,19 +27,14 @@ Press up to play start the game.
 
 <img src = "./screenshot/Home.png">
 
-## <Strong>_Work time_</Strong>
-It would show "work" to remind you. When you finish it, it would add a mark at the bottom.
+## <Strong>_Level up_</Strong>
+If the player reach the other side, level up.
 
-<img src = "./screenshot/work.png">
+<img src = "./screenshot/Levelup.png">
 
-## <Strong>_Short break_</Strong>
-It would show "break" to remind you.
+## <Strong>_Game over_</Strong>
+When turtle hit by the car, game over.
 
-<img src = "./screenshot/Five_minutes.png">
-
-## <Strong>_Long break_</Strong>
-You've done four times of these Pomodoros. It would show "Long break" to remind you.
-
-<img src = "./screenshot/Long_break.png">
+<img src = "./screenshot/Gameover.png">
 
 <br  />
